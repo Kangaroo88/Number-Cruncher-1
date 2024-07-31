@@ -1,4 +1,4 @@
-
+# To the Hack the North team: I made this project while I was in a computer science course; it is a substitue for the details I can't disclose about the school club, as per the school's privacy reasons:
 import time
 import random
 
